@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/broadwaymoney/static/css/main.6e3a6ba0.chunk.css",
-    "main.js": "/broadwaymoney/static/js/main.9f49c3af.chunk.js",
-    "main.js.map": "/broadwaymoney/static/js/main.9f49c3af.chunk.js.map",
+    "main.css": "/broadwaymoney/static/css/main.3fd6e2af.chunk.css",
+    "main.js": "/broadwaymoney/static/js/main.bf7421f7.chunk.js",
+    "main.js.map": "/broadwaymoney/static/js/main.bf7421f7.chunk.js.map",
     "runtime-main.js": "/broadwaymoney/static/js/runtime-main.4cf0d750.js",
     "runtime-main.js.map": "/broadwaymoney/static/js/runtime-main.4cf0d750.js.map",
-    "static/js/2.f28a9749.chunk.js": "/broadwaymoney/static/js/2.f28a9749.chunk.js",
-    "static/js/2.f28a9749.chunk.js.map": "/broadwaymoney/static/js/2.f28a9749.chunk.js.map",
+    "static/js/2.3225103a.chunk.js": "/broadwaymoney/static/js/2.3225103a.chunk.js",
+    "static/js/2.3225103a.chunk.js.map": "/broadwaymoney/static/js/2.3225103a.chunk.js.map",
     "index.html": "/broadwaymoney/index.html",
-    "precache-manifest.d61506c98b0bceed1ba5a5ab0f1b4809.js": "/broadwaymoney/precache-manifest.d61506c98b0bceed1ba5a5ab0f1b4809.js",
+    "precache-manifest.344c3e5e37ce427f216d07bc6e059cf2.js": "/broadwaymoney/precache-manifest.344c3e5e37ce427f216d07bc6e059cf2.js",
     "service-worker.js": "/broadwaymoney/service-worker.js",
-    "static/css/main.6e3a6ba0.chunk.css.map": "/broadwaymoney/static/css/main.6e3a6ba0.chunk.css.map",
-    "static/js/2.f28a9749.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/2.f28a9749.chunk.js.LICENSE.txt"
+    "static/css/main.3fd6e2af.chunk.css.map": "/broadwaymoney/static/css/main.3fd6e2af.chunk.css.map",
+    "static/js/2.3225103a.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/2.3225103a.chunk.js.LICENSE.txt",
+    "static/media/argon-design-system-react.css.map": "/broadwaymoney/static/media/argon-design-system-react.css.7970da63.map",
+    "static/media/argon-react.png": "/broadwaymoney/static/media/argon-react.f38ddea9.png",
+    "static/media/broadway-white-navbar.png": "/broadwaymoney/static/media/broadway-white-navbar.e4d53e4f.png",
+    "static/media/github.svg": "/broadwaymoney/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/broadwaymoney/static/media/google.87be59a1.svg",
+    "static/media/img-1-1200x1000.jpg": "/broadwaymoney/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/broadwaymoney/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/promo-1.png": "/broadwaymoney/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/broadwaymoney/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/broadwaymoney/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/broadwaymoney/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/broadwaymoney/static/media/team-4-800x800.23007132.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4cf0d750.js",
-    "static/js/2.f28a9749.chunk.js",
-    "static/css/main.6e3a6ba0.chunk.css",
-    "static/js/main.9f49c3af.chunk.js"
+    "static/js/2.3225103a.chunk.js",
+    "static/css/main.3fd6e2af.chunk.css",
+    "static/js/main.bf7421f7.chunk.js"
   ]
 }
