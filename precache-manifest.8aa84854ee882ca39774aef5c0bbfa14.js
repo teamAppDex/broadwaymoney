@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57c460bcb949776cd57bb06a10c1558f",
+    "revision": "21b7bfc4d52f999fd23c2c70a3002b8b",
     "url": "/broadwaymoney/index.html"
   },
   {
-    "revision": "0443641cc258217195a1",
+    "revision": "45324d31177970c023f1",
     "url": "/broadwaymoney/static/css/main.3fd6e2af.chunk.css"
   },
   {
-    "revision": "d5b59fb6185d193dad60",
-    "url": "/broadwaymoney/static/js/2.8a883895.chunk.js"
+    "revision": "b29e4987ae83a73d8474",
+    "url": "/broadwaymoney/static/js/2.0facf527.chunk.js"
   },
   {
     "revision": "aa6806f9dbc9039857b07eadcbb3a1a7",
-    "url": "/broadwaymoney/static/js/2.8a883895.chunk.js.LICENSE.txt"
+    "url": "/broadwaymoney/static/js/2.0facf527.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0443641cc258217195a1",
-    "url": "/broadwaymoney/static/js/main.e2fda8aa.chunk.js"
+    "revision": "45324d31177970c023f1",
+    "url": "/broadwaymoney/static/js/main.fcc9dbaf.chunk.js"
   },
   {
     "revision": "1a37261a8523dadbdbe6",
