@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/broadwaymoney/static/css/main.7ed73a62.chunk.css",
-    "main.js": "/broadwaymoney/static/js/main.78915668.chunk.js",
-    "main.js.map": "/broadwaymoney/static/js/main.78915668.chunk.js.map",
+    "main.js": "/broadwaymoney/static/js/main.5876fb7f.chunk.js",
+    "main.js.map": "/broadwaymoney/static/js/main.5876fb7f.chunk.js.map",
     "runtime-main.js": "/broadwaymoney/static/js/runtime-main.4cf0d750.js",
     "runtime-main.js.map": "/broadwaymoney/static/js/runtime-main.4cf0d750.js.map",
     "static/css/2.9ccc3966.chunk.css": "/broadwaymoney/static/css/2.9ccc3966.chunk.css",
-    "static/js/2.e0b50546.chunk.js": "/broadwaymoney/static/js/2.e0b50546.chunk.js",
-    "static/js/2.e0b50546.chunk.js.map": "/broadwaymoney/static/js/2.e0b50546.chunk.js.map",
+    "static/js/2.803525c6.chunk.js": "/broadwaymoney/static/js/2.803525c6.chunk.js",
+    "static/js/2.803525c6.chunk.js.map": "/broadwaymoney/static/js/2.803525c6.chunk.js.map",
     "index.html": "/broadwaymoney/index.html",
-    "precache-manifest.373cfde28a1f24968757193dcbd090be.js": "/broadwaymoney/precache-manifest.373cfde28a1f24968757193dcbd090be.js",
+    "precache-manifest.e46ed480d117e82bdcb71fcb73db0ac1.js": "/broadwaymoney/precache-manifest.e46ed480d117e82bdcb71fcb73db0ac1.js",
     "service-worker.js": "/broadwaymoney/service-worker.js",
     "static/css/2.9ccc3966.chunk.css.map": "/broadwaymoney/static/css/2.9ccc3966.chunk.css.map",
     "static/css/main.7ed73a62.chunk.css.map": "/broadwaymoney/static/css/main.7ed73a62.chunk.css.map",
-    "static/js/2.e0b50546.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/2.e0b50546.chunk.js.LICENSE.txt",
-    "static/js/main.78915668.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/main.78915668.chunk.js.LICENSE.txt",
+    "static/js/2.803525c6.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/2.803525c6.chunk.js.LICENSE.txt",
+    "static/js/main.5876fb7f.chunk.js.LICENSE.txt": "/broadwaymoney/static/js/main.5876fb7f.chunk.js.LICENSE.txt",
     "static/media/broadway-white-navbar.png": "/broadwaymoney/static/media/broadway-white-navbar.e4d53e4f.png",
     "static/media/fav-icon.png": "/broadwaymoney/static/media/fav-icon.672d7720.png",
     "static/media/marc.jpg": "/broadwaymoney/static/media/marc.8880a65c.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.4cf0d750.js",
     "static/css/2.9ccc3966.chunk.css",
-    "static/js/2.e0b50546.chunk.js",
+    "static/js/2.803525c6.chunk.js",
     "static/css/main.7ed73a62.chunk.css",
-    "static/js/main.78915668.chunk.js"
+    "static/js/main.5876fb7f.chunk.js"
   ]
 }
